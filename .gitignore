@@ -25,7 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+<<<<<<< HEAD
 Dataset/
+=======
+>>>>>>> 2bec9d39e275538e7d7b3cbfe2c1eb3b0a8a2ff7
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
